@@ -1,0 +1,6 @@
+git status
+git add (--all or file list)
+git commit -m "comment"
+git remote add nameRepositories urlRepositories
+git remote
+git push nameRepositories nameTag
